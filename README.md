@@ -25,3 +25,7 @@ where as in typescript there are some additional types like enum, any, never, tu
 
 ## Functions
 
+Just as in JavaScript, TypeScript functions can be created either as a named function or as an
+anonymous function. This allows us to choose the most appropriate approach for an
+application, whether we are building a list of functions in an API or a one-off function to hand
+over to another function
