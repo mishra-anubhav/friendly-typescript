@@ -4,9 +4,24 @@ TypeScript is an open-source programming language developed and maintained by Mi
 ## Variable Types
 As we know, javascript has seven different data types : Null, Undefined, Boolean, Number, String, Symbol (introduced in ES6), and Object;
 where as in typescript there are some additional types like enum, any, never, tuples and etc, thus you need not to worry about compatibilty in typescript.
-## Return Types
-## Classes
-## Enums(String and Number)
-## Intersection Types
-## Access modifiers
-## Bonus features
+
+## Flow control statements
+1. The single-selection structure (if)
+
+2. The double-selection structure (if…else)
+
+3. The inline ternary operator (?)
+
+4. The multiple-selection structure (switch)
+
+5. (do…while)
+
+6. while
+
+7. Iterate on each object's properties (for…in)
+
+8. Counter controlled repetition (for)
+
+
+## Functions
+
