@@ -40,3 +40,20 @@ else
 return "Hi!";
 }
 }
+
+## Classes
+
+ECMAScript 6, the next version of JavaScript, adds class-based object orientation to
+JavaScript and, since TypeScript is based on ES6, developers are allowed to use class-based
+object orientation today, and compile them down to JavaScript that works across all major
+browsers and platforms, without having to wait for the next version of JavaScript.
+
+## Interfaces
+In TypeScript, we can use interfaces to enforce that a class follow the specification in a
+particular contract.
+
+## Namespaces
+Namespaces, also known as internal modules, are used to encapsulate features and objects that
+share a certain relationship. Namespaces will help you to organize your code in a much
+clearer way. To declare a namespace in TypeScript, you will use the namespace and export
+keywords.
